@@ -1,4 +1,5 @@
-//WAP to perform a arithmetic operation?
+// Day : 02 WAP to perform a arithmetic operation?
+
 #include<iostream>
 using namespace std;
 
