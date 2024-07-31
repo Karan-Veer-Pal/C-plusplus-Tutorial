@@ -1,4 +1,4 @@
-//WAP to access the global variable from main()?
+// Day : 06 WAP to access the global variable from main()?
 
 #include<iostream>
 using namespace std;
