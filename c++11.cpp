@@ -1,4 +1,5 @@
-//WAP on a manipulator in c++?
+// Day : 11 WAP on a manipulator in c++?
+
 /* Introduction of manipulator: Basically we have two manipulator are: 
 i) endl; --> new line
 ii) setw --> for right justified alignment.
