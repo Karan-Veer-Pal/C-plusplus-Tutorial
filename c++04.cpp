@@ -1,4 +1,5 @@
-//WA basic program to input/output?
+// Day : 04 WA basic program to input/output?
+
 #include<iostream>
 using namespace std;
 
