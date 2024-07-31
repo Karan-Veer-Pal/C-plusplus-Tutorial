@@ -1,4 +1,5 @@
-//WAP  to check size of floating and double datatype?
+// Day : 07 WAP  to check size of floating and double datatype?
+
 #include<iostream>
 using namespace std;
 
