@@ -1,4 +1,5 @@
-//WAP using all loop in c++?
+// Day : 14 WAP using all loop in c++?
+
 #include<iostream>
 using namespace std;
 
