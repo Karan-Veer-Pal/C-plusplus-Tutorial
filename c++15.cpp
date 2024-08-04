@@ -1,4 +1,5 @@
-//WAP to print multiplication table by the user using do while loop?
+// Day : 15 WAP to print multiplication table by the user using do while loop?
+
 #include<iostream>
 using namespace std;
 
