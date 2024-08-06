@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of pointer?
+// Day : 17 WAP to demonstrate the concept of pointer?
+
 #include<iostream>
 using namespace std;
 
