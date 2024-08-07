@@ -1,4 +1,5 @@
-//WAP to demonstrate the using of array?
+// Day : 18 WAP to demonstrate the using of array?
+
 #include<iostream>
 using namespace std;
 
