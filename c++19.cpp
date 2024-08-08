@@ -1,4 +1,5 @@
 // Day : 19 WAP to demonstrate the pointer with array?
+
 #include<iostream>
 using namespace std;
 
