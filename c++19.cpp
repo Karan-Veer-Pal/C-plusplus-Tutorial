@@ -1,4 +1,4 @@
-//WAP to demonstrate the pointer with array?
+// Day : 19 WAP to demonstrate the pointer with array?
 #include<iostream>
 using namespace std;
 
@@ -8,6 +8,7 @@ int main()
     int *p=arr;
 
     cout<<*p<<endl;
+    // Also access by this way : 
     // cout<<*(p++)<<endl;
     // cout<<*(++p)<<endl;
 
