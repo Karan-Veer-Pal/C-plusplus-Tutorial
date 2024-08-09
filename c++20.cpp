@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept os structure and union?
+// Day : 20 WAP to demonstrate the concept os structure, union and enum?
+
 #include<iostream>
 using namespace std;
 
