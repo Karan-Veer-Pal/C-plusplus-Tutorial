@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of inline function?
+// Day : 25 WAP to demonstrate the concept of inline function?
+
 #include<iostream>
 using namespace std;
 
