@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 
-//inline use when function body must be of 1 or 2 line.
+//inline use when function body must be of 1 or 2 line and *must be size of inline function is 1kb to 8kb.
 inline int product(int x, int y)
 {
     return x*y;
@@ -15,6 +15,6 @@ int main()
     cout<<"Enter the value of a and b:"<<endl;
     cin>>a>>b;
     cout<<"The value of the product is: "<<product(a,b)<<endl;
-    
+
     return 0;
 }
