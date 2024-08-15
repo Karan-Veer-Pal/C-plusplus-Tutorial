@@ -1,5 +1,6 @@
-//WAP to demonstrate the concept of static data type?
-//WAP to demonstrate the concept of inline function?
+// Day : 26 WAP to demonstrate the concept of static data type?
+// Day : 26 WAP to demonstrate the concept of inline function?
+
 #include<iostream>
 using namespace std;
 
@@ -22,5 +23,6 @@ int main()
     cout<<"The value of the product is: "<<product(a,b)<<endl;
     cout<<"The value of the product is: "<<product(a,b)<<endl;
     cout<<"The value of the product is: "<<product(a,b)<<endl;
+    
     return 0;
 }
