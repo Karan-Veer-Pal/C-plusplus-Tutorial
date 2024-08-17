@@ -1,5 +1,6 @@
-//WAP to demonstrate the concept of recurrsion?
-//Find factorial and fabonacci sequence of a number?
+// Day : 28 WAP to demonstrate the concept of recurrsion?
+// Day : 28 Find factorial and fabonacci sequence of a number?
+
 #include<iostream>
 using namespace std;
 
@@ -29,5 +30,6 @@ int main()
     cin>>number;
     cout<<"The factorial of "<<number<<" is "<<factorial(number)<<endl;
     cout<<"The term in fibonacci sequence at position "<<number<<" is "<<fib(number)<<endl;
+    
     return 0;
 }
