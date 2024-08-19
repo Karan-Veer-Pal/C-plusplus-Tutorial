@@ -35,5 +35,6 @@ int main()
     karan.e=89;
     karan.setdata(1,2);
     karan.getdata();
+    
     return 0;
 }
