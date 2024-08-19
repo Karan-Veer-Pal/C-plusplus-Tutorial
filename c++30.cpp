@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of the class?
+// Day : 30 WAP to demonstrate the concept of the class?
+
 #include<iostream>
 using namespace std;
 
