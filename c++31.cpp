@@ -1,4 +1,5 @@
-// WAP to demonstrate the concept of array in class?
+// Day : 31 WAP to demonstrate the concept of array in class?
+
 #include <iostream>
 using namespace std;
 
@@ -41,5 +42,6 @@ int main()
     dukaan.getdata();
     dukaan.getdata();
     dukaan.putdata();
+    
     return 0;
 }
