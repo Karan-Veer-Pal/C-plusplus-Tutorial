@@ -1,11 +1,12 @@
-//WAP to deomstrate the concept of static data-member and static function?
+// Day : 32 WAP to deomstrate the concept of static data-member and static function?
+
 #include<iostream>
 using namespace std;
 
 class employee
 {
     int id;
-    //static int count; --> *Not permitted (see and compare line 8 and 23)
+    //static int count; --> *Not permitted (see and compare line 9 and 24)
     static int count; //int count=0;
 
     public:
