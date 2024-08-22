@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of array of an object?
+// Day : 33 WAP to demonstrate the concept of array of an object?
+
 #include<iostream>
 using namespace std;
 
