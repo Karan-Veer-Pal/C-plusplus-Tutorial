@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of friend function?
+// Day : 35 WAP to demonstrate the concept of friend function?
+
 #include<iostream>
 using namespace std;
 
@@ -41,6 +42,7 @@ int main()
 
     sum = sumcomplex(c1,c2);
     sum.putdata();
+    
     return 0;
 }
 
