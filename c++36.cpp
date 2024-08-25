@@ -1,6 +1,8 @@
- //WAP to add to real part of the complex number by one class friend access the another class data member?
+ // Day : 36 WAP to add to real part of the complex number by one class friend access the another class data member?
+
 // In which we declare two friend function, in case if we declare the more than 2 friend function then we 
 // declare the whole class as a friend class. -->> This is see in next program. 
+
 #include<iostream>
 using namespace std;
 
