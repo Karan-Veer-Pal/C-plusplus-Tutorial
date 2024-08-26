@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of friend class(whole class as a friend)?
+// Day : 37 WAP to demonstrate the concept of friend class(whole class as a friend)?
+
 #include<iostream>
 using namespace std;
 
