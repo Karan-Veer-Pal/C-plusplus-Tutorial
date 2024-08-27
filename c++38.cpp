@@ -1,4 +1,5 @@
-//WAP on simple example of friend function?
+// Day : 38 WAP on simple example of friend function?
+
 #include<iostream>
 using namespace std;
 
@@ -40,5 +41,6 @@ int main()
     x2.getdata(9);
 
     add(x1,x2);
+    
     return 0;
 }
