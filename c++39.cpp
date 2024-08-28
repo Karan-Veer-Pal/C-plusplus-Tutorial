@@ -1,5 +1,6 @@
-//WAP on complex example of friend function?
-//WAP to swap the private data of one class to another class?
+// Day : 39 WAP on complex example of friend function?
+// Day : 39 WAP to swap the private data of one class to another class?
+
 #include<iostream>
 using namespace std;
 
@@ -56,5 +57,6 @@ int main()
 
     cout<<"The value of c2 after swap becomes:";
     obj2.putdata();
+    
     return 0;
 }
