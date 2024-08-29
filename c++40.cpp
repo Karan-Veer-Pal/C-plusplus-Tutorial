@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of constructor in c++?
+// Day : 40 WAP to demonstrate the concept of constructor in c++?
+
 #include<iostream>
 using namespace std;
 
@@ -30,6 +31,7 @@ int main()
 {
     complex c1;
     c1.putdata();
+    
     return 0;
 }
 /*Properties of Constructor
