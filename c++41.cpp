@@ -1,4 +1,5 @@
-//WAP to demostrate of the comcept of parameterized constructor by implicit call? 
+// Day : 41 WAP to demostrate of the comcept of parameterized constructor by implicit call? 
+
 #include<iostream>
 using namespace std;
 
