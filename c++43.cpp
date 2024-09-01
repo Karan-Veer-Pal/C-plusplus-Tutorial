@@ -1,4 +1,5 @@
-//WAP to demonstrate the example of parameterized constructor?
+// Day : 43 WAP to demonstrate the example of parameterized constructor?
+
 #include<iostream>
 using namespace std;
 
@@ -27,5 +28,6 @@ int main()
     p1.displaypoints();
     point p2(8,9);
     p2.displaypoints();
+    
     return 0;
 }
