@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of single inheritance? 
+// Day : 50 WAP to demonstrate the concept of single inheritance? 
+
 #include<iostream>
 using namespace std;
 
@@ -58,5 +59,6 @@ int main()
     cout<<skillf.language_code<<endl; //third run
     cout<<skillf.id<<endl; //forth run
     skillf.putdata(); //fifth run
+    
     return 0;
 }
