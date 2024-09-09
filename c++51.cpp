@@ -1,5 +1,6 @@
-//Diffrence between visibility-mode int c++51.cpp to c++52.cpp--->>>>
-//WAP to demonstrate the concept of single inheritance?
+// Day : 51 Diffrence between visibility-mode int c++51.cpp to c++52.cpp--->>>>
+// Day : 51 WAP to demonstrate the concept of single inheritance?
+
 #include<iostream>
 using namespace std;
 
@@ -51,5 +52,6 @@ int main()
     der1.getdata();
     der1.process();
     der1.display();
+    
     return 0;
 }
