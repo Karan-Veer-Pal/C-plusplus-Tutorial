@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of multiple inheritance?
+// Day : 55 WAP to demonstrate the concept of multiple inheritance?
+
 #include<iostream>
 using namespace std;
 
@@ -61,5 +62,6 @@ int main()
     karan.set_base1int(25);
     karan.set_base2int(5);
     karan.show();
+    
     return 0;
 }
