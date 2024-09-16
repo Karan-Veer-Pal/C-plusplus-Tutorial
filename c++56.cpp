@@ -1,3 +1,4 @@
+// Day : 56
 //BY ME -->
 // WAP exercise on inheritance?
 #include<iostream>
@@ -75,5 +76,6 @@ int main()
     obj.display2();
 
     obj.display3();
+    
     return 0;
 }
