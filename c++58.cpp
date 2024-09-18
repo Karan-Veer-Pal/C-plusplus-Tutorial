@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of inheritance ambiguity resolution method one of (b)--> ?
+// Day : 58 WAP to demonstrate the concept of inheritance ambiguity resolution method one of (b)--> ?
+
 #include<iostream>
 using namespace std;
 
