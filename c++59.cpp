@@ -1,22 +1,42 @@
-// WAP to print the adddress of a variable use this address ta get the value of this variable?
+// Day : 59 WAP to demonstrate the concept of inheritance ambiguity resolution method two--> ?
 
-#include<stdio.h>
-#include<conio.h>
+#include<iostream>
+using namespace std;
 
-void main()
+
+class B 
 {
-	int *ptr, i;
-	ptr=&i;
-	clrscr();
+    public:
+        void say()
+        {
+            cout<<"Hello World"<<endl;
+        }
+};
 
-	printf("Enter the value of i:\n");
-	scanf("%d", &i);
+class D : public B
+{
+    int a;
+    public:
+        // If two classes have two function which are same then the derived class function is prefered first otherwise it is like a normal ambiguity but this ambiguity is automatically re-solved by compiler.
+        void say()
+        {
+            cout<<"Hello world and beautiful people"<<endl;
+        }
+};
 
-	printf("The address of i is:%u\n", &i);
-	printf("The address of i is:%u\n", ptr);
+class E : public B{};
+int main()
+{
+    //Ambiguity -->
+    B b;
+    b.say();
 
-	printf("The value of i is:%d\n", i);
-	printf("The value of i is:%d\n", *ptr);
+    D d;
+    d.say();
 
-	getch();
+    //Method two -->
+    E e;
+    e.say();
+	
+    return 0;
 }
