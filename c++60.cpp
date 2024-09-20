@@ -1,5 +1,6 @@
-// WAP to demonstrate the concept of virtual base class?
-//WAP to demonstrate the concept of hybrid inheritance?
+// Day : 60 WAP to demonstrate the concept of virtual base class?
+// Day : 60 WAP to demonstrate the concept of hybrid inheritance?
+
 #include<iostream>
 using namespace std;
 
@@ -74,5 +75,6 @@ int main()
     karan.set_marks(78.9, 99.5);
     karan.set_score(9);
     karan.display();   
+    
     return 0;
 }
