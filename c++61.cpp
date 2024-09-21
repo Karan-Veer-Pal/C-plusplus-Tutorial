@@ -1,5 +1,5 @@
-//BY SIR -->
-// WAP exercise on inheritance?
+// Day : 61 BY SIR -->
+// Day : 61 WAP exercise on inheritance?
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -83,5 +83,6 @@ int main()
     calc3.perform_opertions_simple();
     calc3.getdata_scientific();
     calc3.perform_opertions_scientific();
+    
     return 0;
 }
