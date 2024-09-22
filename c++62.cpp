@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of constructor in derived class?
+// Day : 62 WAP to demonstrate the concept of constructor in derived class?
+
 #include<iostream>
 using namespace std;
 
@@ -77,5 +78,6 @@ int main()
     karan.print_data_base1();
     karan.print_data_base2();
     karan.print_data_derived();    
+    
     return 0;
 }
