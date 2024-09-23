@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of constructor initialization list?
+// Day : 63 WAP to demonstrate the concept of constructor initialization list?
+
 #include<iostream>
 using namespace std;
 
@@ -45,5 +46,6 @@ class test
 int main()
 {
     test t(3,4);
+    
     return 0;
 }
