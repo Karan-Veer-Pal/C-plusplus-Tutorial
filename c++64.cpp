@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of revisitig pointer: new and delete keywords?
+// Day : 64 WAP to demonstrate the concept of revisitig pointer: new and delete keywords?
+
 #include<iostream>
 using namespace std;
 
@@ -28,5 +29,6 @@ int main()
 
     //delete operator:
     delete arr;
+    
     return 0;
 }
