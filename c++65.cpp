@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of pointer to object and arrow operater and a little bit array also? 
+// Day : 65 WAP to demonstrate the concept of pointer to object and arrow operater and a little bit array also? 
+
 #include<iostream>
 using namespace std;
 
@@ -37,5 +38,6 @@ int main()
     complex *p = new complex[4];
     p->setdata(1,4);
     p->getdata();
+    
     return 0;
 }
