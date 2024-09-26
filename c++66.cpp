@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of array of object using pointer?
+// Day : 66 WAP to demonstrate the concept of array of object using pointer?
+
 #include<iostream>
 using namespace std;
 
@@ -43,5 +44,6 @@ int main()
     }
 
     // iss program me humne ptrtemp isliye banaye hai kiyoki jab phle wale for loop me hum ptr ko increment karege toh ptr increment ho kar apne size jitne value per pahuch jayega then hum dosre for loop me increment karege toh wahi se ptr increment hona start ho jayega jaha se phle for loop ne ptr ko choda hai isliye hum ptrtemp ko banayege dosre wale for loop ko run karne ke liye or phle wale for loop se data access karne ke liye.  
+    
     return 0;
 }
