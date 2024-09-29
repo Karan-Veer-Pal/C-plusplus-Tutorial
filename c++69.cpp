@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of pointer to derived class?
+// Day : 69 WAP to demonstrate the concept of pointer to derived class?
+
 #include<iostream>
 using namespace std;
 
