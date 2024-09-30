@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of Virtual Function?
+// Day : 70 WAP to demonstrate the concept of Virtual Function?
+
 #include<iostream>
 using namespace std;
 
@@ -34,5 +35,6 @@ int main()
     ptr_base = &obj_derived;
 
     ptr_base -> display(); 
+    
     return 0;
 }
