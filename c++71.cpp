@@ -1,5 +1,6 @@
-//WAP to demonstrate the concept of Virtual Function Examples?
+// Day : 71 WAP to demonstrate the concept of Virtual Function Examples?
 // Example 1 --> in which we make a all display function to all then constructor call it's own class display function  in case of we made a virtual function in base class.
+
 #include<iostream>
 #include<cstring>
 using namespace std;
@@ -82,6 +83,7 @@ int main()
 
     ptr[0] -> display();
     ptr[1] -> display();
+    
     return 0;
 }
 
