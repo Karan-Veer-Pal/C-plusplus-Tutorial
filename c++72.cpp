@@ -1,5 +1,6 @@
-//WAP to demonstrate the concept of Virtual Function Examples?
+// Day : 72 WAP to demonstrate the concept of Virtual Function Examples?
 // Example 2 --> in which we not make a display function in 2nd derived class then the 2nd derived class call the base class display function in case of virtual display function of the base class.
+
 #include<iostream>
 #include<cstring>
 using namespace std;
@@ -76,6 +77,7 @@ int main()
 
     ptr[0] -> display();
     ptr[1] -> display();
+    
     return 0;
 }
 
