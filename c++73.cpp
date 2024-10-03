@@ -1,6 +1,7 @@
-//WAP to demonstrate the concept of Abstract Base Class And Pure Virtual Functions?
-//WAP to demonstrate the concept of Virtual Function Examples?
+// Day : 73 WAP to demonstrate the concept of Abstract Base Class And Pure Virtual Functions?
+// Day : 73 WAP to demonstrate the concept of Virtual Function Examples?
 // Example 3 --> if we make a pure virtual display function in base class then we must to make a display function in derived class.
+
 #include<iostream>
 #include<cstring>
 using namespace std;
@@ -87,6 +88,7 @@ int main()
 
     ptr[0] -> display();
     ptr[1] -> display();
+    
     return 0;
 }
 
