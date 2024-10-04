@@ -1,4 +1,5 @@
-//WAP to demomstrate the concept of File I/O : Working With Files?
+// Day : 74 WAP to demomstrate the concept of File I/O : Working With Files?
+
 #include<iostream>
 #include<fstream>
 using namespace std;
@@ -30,6 +31,7 @@ int main()
     getline(in, str2);
     // getline(in, str2); //-->>because we write getline(in, str2); second time -> To get the next line of the file
     cout<<str2;
+    
     return 0;
 }
 
