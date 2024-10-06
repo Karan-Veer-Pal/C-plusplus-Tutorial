@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of open() and eof() function?
+// Day : 76 WAP to demonstrate the concept of open() and eof() function?
+
 #include<iostream>
 #include<fstream>
 // #include<string>
@@ -27,5 +28,6 @@ int main()
     }
     
     in.close();
+    
     return 0;
 }
