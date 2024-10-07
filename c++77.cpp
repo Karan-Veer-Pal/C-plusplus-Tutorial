@@ -1,4 +1,5 @@
-//WAP to find the dot product of the vector?
+// Day : 77 WAP to find the dot product of the vector?
+
 #include<iostream>
 using namespace std;
 
