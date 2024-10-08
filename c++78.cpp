@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of C++ Templates?
+// Day : 78 WAP to demonstrate the concept of C++ Templates?
+
 #include<iostream>
 using namespace std;
 
@@ -51,5 +52,6 @@ int main()
 
     float a = v1.dotproduct(v2);
     cout<<a<<endl;
+    
     return 0;
 }
