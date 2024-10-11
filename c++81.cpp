@@ -1,4 +1,5 @@
-//WAP to find the average?
+// Day : 81 WAP to find the average?
+
 #include<iostream>
 using namespace std;
 
@@ -23,5 +24,6 @@ int main()
     float b; 
     b =funcAverage2(5,2.4);              
     cout<<"The value of average 2 of "<< b <<endl;
+    
     return 0;
 }
