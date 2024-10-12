@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of Function Templates?
+// Day : 82 WAP to demonstrate the concept of Function Templates?
+
 #include<iostream>
 using namespace std;
 
@@ -14,5 +15,6 @@ int main()
     float a; 
     a =funcAverage(5,2);              
     cout<<"The value of average of "<< a <<endl;
+    
     return 0;
 }
