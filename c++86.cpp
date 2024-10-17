@@ -1,5 +1,6 @@
-//WAP to demonstrate the concept of List in C++ STL?
-//List used to delete a middle-middle element of the array.
+// Day : 86 WAP to demonstrate the concept of List in C++ STL?
+// Day : 86 List used to delete a middle-middle element of the array.
+
 #include<iostream>
 #include<list>
 using namespace std;
@@ -70,5 +71,6 @@ int main()
     list1.merge(list2);
     cout<<"List 1 after merging";
     display(list1);
+    
     return 0;
 }
