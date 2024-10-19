@@ -1,4 +1,5 @@
-//WAP to demonstrate the concept of Function Objects (Functors)?
+// Day : 88 WAP to demonstrate the concept of Function Objects (Functors)?
+
 #include<iostream>
 #include<functional>
 #include<algorithm>
