@@ -1,6 +1,6 @@
 //WAP to the value of the variables?
 
-#include<iostream.h>
+#include<iostream>
 
 int main()
 {
