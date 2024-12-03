@@ -1,6 +1,6 @@
-//WAP to get the data and print the data using class take the data from the user?
-#include<iostream.h>
-#include<conio.h>
+// Day : 92 WAP to get the data and print the data using class take the data from the user?
+
+#include<iostream>
 
 class employee
 {
@@ -27,13 +27,12 @@ class employee
 		}
 };
 
-void main()
+int main()
 {
 	employee s;
-	clrscr();
 
 	s.get_data();
 	s.put_data();
 
-	getch();
+	return 0;
 }
