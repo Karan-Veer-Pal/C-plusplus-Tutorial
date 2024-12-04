@@ -1,6 +1,6 @@
-//WAP to get the data and print the data using class take the inbuild data?
-#include<iostream.h>
-#include<conio.h>
+// Day : 93 WAP to get the data and print the data using class take the inbuild data?
+
+#include<iostream>
 
 class employee
 {
@@ -23,13 +23,12 @@ class employee
 		}
 };
 
-void main()
+int main()
 {
 	employee s;
-	clrscr();
 
 	s.get_data(34,1500.56);
 	s.put_data();
 
-	getch();
+	return 0;
 }
