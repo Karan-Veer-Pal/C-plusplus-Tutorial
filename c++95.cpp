@@ -1,6 +1,6 @@
-//WAP to get the data from user and declare the function body outside the class use scope resolution?
+// Day : 95 WAP to get the data from user and declare the function body outside the class use scope resolution?
+
 #include<iostream.h>
-#include<conio.h>
 
 class student
 {
@@ -30,17 +30,14 @@ void student::put_data()
 	cout<<"Percent of the student:"<<endl<<percent<<endl;
 }
 
-void main()
+int main()
 {
 	student s, s1;
-	clrscr();
 
 	s.get_data();
 	s.put_data();
 	s1.get_data();
 	s1.put_data();
 
-
-
-	getch();
+	return 0;
 }
