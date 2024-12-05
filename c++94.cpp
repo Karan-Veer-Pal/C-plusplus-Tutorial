@@ -1,6 +1,6 @@
 // Day : 95 WAP to get the data from user and declare the function body outside the class use scope resolution?
 
-#include<iostream.h>
+#include<iostream>
 
 class student
 {
