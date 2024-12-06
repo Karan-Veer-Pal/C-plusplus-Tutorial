@@ -1,5 +1,4 @@
 #include<iostream.h>
-#include<conio.h>
 
 class item
 {
@@ -20,10 +19,9 @@ class item
 
 int item::count;
 
-void main()
+int main()
 {
 	item a, b, c;
-	clrscr();
 
 	a.get_count();
 	b.get_count();
@@ -39,6 +37,5 @@ void main()
 	b.get_count();
 	c.get_count();
 
-
-	getch();
+	return 0;
 }
