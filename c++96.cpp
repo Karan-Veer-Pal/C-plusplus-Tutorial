@@ -1,6 +1,6 @@
 //********************WORNG*******************************************
-#include<iostream.h>
-#include<conio.h>
+
+#include<iostream>
 
 class test
 {
@@ -23,10 +23,9 @@ class test
 };
 
 
-void main()
+int main()
 {
 	test t1, t2;
-	clrscr();
 
 	t1.set_code;
 	t2.set_code;
@@ -42,5 +41,5 @@ void main()
 	t2.show_code();
 	t3.show_code();
 
-	getch();
+	return 0;
 }
