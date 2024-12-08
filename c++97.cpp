@@ -1,6 +1,6 @@
-//WAP to demonstrate the use of inline function?
-#include<iostream.h>
-#include<conio.h>
+// Day : 97 WAP to demonstrate the use of inline function?
+
+#include<iostream>
 
 inline int cube(int num)
 {
@@ -21,7 +21,6 @@ int main()
 {
 	int number;
 	int a=5, b=3;
-	clrscr();
 
 	cout<<"Enter a number:"<<endl;
 	cin>>number;
@@ -31,5 +30,5 @@ int main()
 	cout<<add(a,b)<<endl;
 	cout<<div(a,b)<<endl;
 
-	getch();
+	return 0;
 }
