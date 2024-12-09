@@ -1,6 +1,6 @@
 // Day : 98 WAP to demonstrate the use of funtion overloading?
 
-#include<iostream.h>
+#include<iostream>
 
 void print(int num)
 {
