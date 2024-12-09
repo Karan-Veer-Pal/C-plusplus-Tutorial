@@ -1,6 +1,6 @@
-//WAP to demonstrate the use of funtion overloading?
+// Day : 98 WAP to demonstrate the use of funtion overloading?
+
 #include<iostream.h>
-#include<conio.h>
 
 void print(int num)
 {
@@ -13,9 +13,8 @@ void print(double num)
 
 int main()
 {
-	clrscr();
 	print(5);
 	print(3.14);
 
-	getch();
+	return 0;
 }
