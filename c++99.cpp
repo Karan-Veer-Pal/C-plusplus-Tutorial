@@ -1,6 +1,6 @@
 // Day : 99 WAP to demonstrate the use of array of object?
 
-#include<iostream.h>
+#include<iostream>
 
 class student
 {
