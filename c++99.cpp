@@ -1,6 +1,6 @@
-//WAP to demonstrate the use of array of object?
+// Day : 99 WAP to demonstrate the use of array of object?
+
 #include<iostream.h>
-#include<conio.h>
 
 class student
 {
@@ -26,7 +26,6 @@ int main()
 {
 	//const int size=3;
 	student s[size];
-	clrscr();
 
 	for(int i=0; i<size; i++)
 	{
@@ -39,5 +38,5 @@ int main()
 		s[i].put_data();
 	}
 
-	getch();
+	return 0;
 }
