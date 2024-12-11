@@ -1,6 +1,6 @@
-//WAP to demonstrate the concept of scope resolution operator?
-#include<iostream.h>
-#include<conio.h>
+// Day : 100 WAP to demonstrate the concept of scope resolution operator?
+
+#include<iostream>
 
 class manager
 {
@@ -28,13 +28,12 @@ void manager::print_output()
 	cout<<"Employee salary is:"<<salary<<endl;
 }
 
-void main()
+int main()
 {
 	manager s;
-	clrscr();
 
 	s.get_input();
 	s.print_output();
 
-	getch();
+	return 0;
 }
