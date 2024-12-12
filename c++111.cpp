@@ -1,6 +1,6 @@
-//WAP to demonstrate the concept of single inheritance?
-#include<iostream.h>
-#include<conio.h>
+// Day : 101 WAP to demonstrate the concept of single inheritance?
+
+#include<iostream>
 
 class A
 {
@@ -18,11 +18,13 @@ class B : public A
 		cout<<"I am derived B class"<<endl;
 	}
 };
-void main()
+
+int main()
 {
 	B obj;
-	clrscr();
+
 	obj.get_a();
 	obj.get_b();
-	getch();
+
+	return 0;
 }
