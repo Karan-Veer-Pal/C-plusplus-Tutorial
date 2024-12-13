@@ -1,6 +1,6 @@
-//WAP to demonstrate the concept of multi-level inheritance?
-#include<iostream.h>
-#include<conio.h>
+// Day : 102 WAP to demonstrate the concept of multi-level inheritance?
+
+#include<iostream>
 
 class A
 {
@@ -28,12 +28,14 @@ class C : public B
 		cout<<"I am derived by B class"<<endl;
 	}
 };
-void main()
+
+int main()
 {
 	C obj;
-	clrscr();
+	
 	obj.get_a();
 	obj.get_b();
 	obj.get_c();
-	getch();
+
+	return 0;
 }
