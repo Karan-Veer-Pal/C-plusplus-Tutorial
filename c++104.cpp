@@ -1,6 +1,6 @@
-//WAP to demonstrate the concept of hierarical inheritance?
-#include<iostream.h>
-#include<conio.h>
+// Day : 104 WAP to demonstrate the concept of hierarical inheritance?
+
+#include<iostream>
 
 class A
 {
@@ -28,12 +28,14 @@ class C : public A
 		cout<<"I am derived by A class"<<endl;
 	}
 };
-void main()
+
+int main()
 {
 	B obj1;
 	C obj2;
-	clrscr();
+	
 	obj1.get_a();
 	obj2.get_a();
-	getch();
+	
+	return 0;
 }
